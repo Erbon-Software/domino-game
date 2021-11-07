@@ -34,7 +34,7 @@
     "./src/**.js",
     "./index.ts"
   ],
-  "exclude": [  
+  "exclude": [
     "./dist",
     "./node_modules",
     "**/*.test.*",
