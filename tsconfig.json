@@ -5,10 +5,7 @@
     "rootDir": ".",
     "moduleResolution": "node",
     "baseUrl": "./src",
-    "typeRoots": [
-      "./node_modules/@types",
-      "./src/types"
-    ],
+    "typeRoots": ["./node_modules/@types", "./src/types"],
     "resolveJsonModule": true,
     "allowJs": true,
     "checkJs": true,
@@ -29,15 +26,6 @@
     "alwaysStrict": true,
     "skipLibCheck": true
   },
-  "include": [
-    "./src/**.ts",
-    "./src/**.js",
-    "./index.ts"
-  ],
-  "exclude": [
-    "./dist",
-    "./node_modules",
-    "**/*.test.*",
-    "**/*.spec.*"
-  ]
+  "include": ["./src/**.ts", "./src/**.js", "./index.ts"],
+  "exclude": ["./dist", "./node_modules", "**/*.test.*", "**/*.spec.*"]
 }
