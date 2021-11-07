@@ -1,0 +1,19 @@
+{
+  "name": "domino",
+  "version": "1.0.0",
+  "description": "A simple domino game",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erbon-Software/domino-game.git"
+  },
+  "author": "Gustavo Alexandre Nobre Mesquita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Erbon-Software/domino-game/issues"
+  },
+  "homepage": "https://github.com/Erbon-Software/domino-game#readme"
+}
